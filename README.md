@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions by Nithin H S
+# 🚀 LeetCode Solutions by NithinKumar HS
 
 Welcome to my curated collection of LeetCode solutions, structured and organized by difficulty. This repository serves as a personal coding journal to track my DSA practice and help others understand clean, readable, and well-documented code.
 

@@ -21,6 +21,8 @@ LeetCode-Practice/
 ├── Easy/
 │   ├── 001_Two_Sum.java
 │   ├── 013_Roman_to_Integer.java
+│   ├── 026_Remove_Duplicates_from_Sorted_Array.java
+│   ├── 088_Merge_Sorted_Array.java
 │   ├── 268_Missing_Number.java
 │   └── 704_Binary_Search.java
 │
@@ -41,11 +43,11 @@ LeetCode-Practice/
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| ✅ Easy     | 4               |
+| ✅ Easy     | 6               |
 | 🔄 Medium   | 2               |
 | 🕐 Hard     | 0               |
 
-**🎯 Total: 6 problems solved**
+**🎯 Total: 8 problems solved**
 
 
 ---

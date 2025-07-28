@@ -26,6 +26,7 @@ LeetCode-Practice/
 │
 ├── Medium/
 │   └── 075_Sort_Colors.java
+│   └── 080_Remove_Duplicates_from_Sorted_Array_II.java
 │
 ├── Hard/
 │   └── (Coming soon...)
@@ -41,10 +42,10 @@ LeetCode-Practice/
 | Difficulty | Problems Solved |
 |------------|-----------------|
 | ✅ Easy     | 4               |
-| 🔄 Medium   | 1               |
+| 🔄 Medium   | 2               |
 | 🕐 Hard     | 0               |
 
-**🎯 Total: 5 problems solved**
+**🎯 Total: 6 problems solved**
 
 
 ---

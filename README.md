@@ -22,9 +22,12 @@ LeetCode-Practice/
 │   ├── 001_Two_Sum.java
 │   ├── 013_Roman_to_Integer.java
 │   ├── 026_Remove_Duplicates_from_Sorted_Array.java
+│   ├── 027_Remove_Element.java
 │   ├── 088_Merge_Sorted_Array.java
 │   ├── 268_Missing_Number.java
-│   └── 704_Binary_Search.java
+│   ├── 283_Move_Zeroes.java
+│   ├── 704_Binary_Search.java
+│   └── 977_Squares_of_a_Sorted_Array.java
 │
 ├── Medium/
 │   └── 075_Sort_Colors.java
@@ -43,11 +46,11 @@ LeetCode-Practice/
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| ✅ Easy     | 6               |
+| ✅ Easy     | 9               |
 | 🔄 Medium   | 2               |
 | 🕐 Hard     | 0               |
 
-**🎯 Total: 8 problems solved**
+**🎯 Total: 11 problems solved**
 
 
 ---
@@ -72,4 +75,4 @@ Each file includes:
 
 ---
 
-## 📅 Last Updated: July 28, 2025
+## 📅 Last Updated: July 30, 2025

@@ -23,6 +23,8 @@ LeetCode-Practice/
 │   ├── 013_Roman_to_Integer.java
 │   ├── 026_Remove_Duplicates_from_Sorted_Array.java
 │   ├── 027_Remove_Element.java
+│   ├── 035_Search_Insert_Position.java
+│   ├── 066_Plus_One.java
 │   ├── 088_Merge_Sorted_Array.java
 │   ├── 268_Missing_Number.java
 │   ├── 283_Move_Zeroes.java
@@ -46,11 +48,11 @@ LeetCode-Practice/
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| ✅ Easy     | 9               |
+| ✅ Easy     | 11               |
 | 🔄 Medium   | 2               |
 | 🕐 Hard     | 0               |
 
-**🎯 Total: 11 problems solved**
+**🎯 Total: 13 problems solved**
 
 
 ---

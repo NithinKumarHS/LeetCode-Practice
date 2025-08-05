@@ -26,8 +26,10 @@ LeetCode-Practice/
 │   ├── 035_Search_Insert_Position.java
 │   ├── 066_Plus_One.java
 │   ├── 088_Merge_Sorted_Array.java
+│   ├── 136_Single_Number.java
 │   ├── 268_Missing_Number.java
 │   ├── 283_Move_Zeroes.java
+│   ├── 414_Third_Maximum_Number.java
 │   ├── 704_Binary_Search.java
 │   └── 977_Squares_of_a_Sorted_Array.java
 │
@@ -48,11 +50,11 @@ LeetCode-Practice/
 
 | Difficulty | Problems Solved |
 |------------|-----------------|
-| ✅ Easy     | 11               |
+| ✅ Easy     | 13               |
 | 🔄 Medium   | 2               |
 | 🕐 Hard     | 0               |
 
-**🎯 Total: 13 problems solved**
+**🎯 Total: 15 problems solved**
 
 
 ---
@@ -77,4 +79,4 @@ Each file includes:
 
 ---
 
-## 📅 Last Updated: August 04, 2025
+## 📅 Last Updated: August 06, 2025
